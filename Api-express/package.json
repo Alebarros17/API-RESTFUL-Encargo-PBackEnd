@@ -1,0 +1,14 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "Encargo Back BackEnd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandra Barros",
+  "license": "ISC",
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}
