@@ -1,17 +1,17 @@
 # API RESTful
 
-Esta es una API RESTful construida con Node.js y Express.js que permite realizar operaciones **CRUD** (Crear, Leer, Actualizar y Eliminar) sobre un conjunto de tareas almacenadas en memoria.
+Esta es una API RESTful construida con Node.js y Express.js que permite realizar operaciones **CRUD** sobre un conjunto de tareas.
 
 ## Requisitos Técnicos
 
-* Node.js (versión actualizada)
+* Node.js (versión actualizada o segura)
 * npm
 
 ## Instalación y Ejecución
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [URL-DEL-REPOSITORIO]
+    git clone [https://github.com/Alebarros17/API-RESTFUL-Encargo-PBackEnd.git]
     cd Api-express
     ```
 
@@ -39,3 +39,14 @@ Esta es una API RESTful construida con Node.js y Express.js que permite realizar
 ![Get2](image.png)
 
 ### 2. POST → Crear
+![Post1](image-2.png)
+![Post2](image-3.png)
+
+### 3. PUT → Modificar
+![Put1](image-4.png)
+
+### 4. DELETE → Borrar
+![Delete1](image-5.png)
+![Delete2](image-6.png) //Confirmo que no salga
+
+las imagenes estan en el archivo adjuntas, en VSC se ven bien, espero que aqui tambien
